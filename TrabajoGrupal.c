@@ -2,7 +2,7 @@
 
 // Punto 1: Conversión de metros a centímetros y viceversa
 
-// Código del alumno: Lucas Martin Rojas
+// Código del alumno: Bianca Marina Sanchez
 // Link de GIT personal:
 // Link del GIT grupal (Lider: Nicole Stefania Martinez):
 
@@ -34,7 +34,7 @@ float pulgadas_a_centimetros(float pulgadas)
 
 // Punto 3: Repetir texto X veces
 
-// Código del alumno: Nicolas Gabriel Silva
+// Código del alumno: Nicole Stefania Martinez y Bianca Marina Sanchez
 // Link de GIT personal:
 // Link del GIT grupal (Lider: Nicole Stefania Martinez):
 
